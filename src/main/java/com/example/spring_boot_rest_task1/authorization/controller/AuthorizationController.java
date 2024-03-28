@@ -1,6 +1,5 @@
 package com.example.spring_boot_rest_task1.authorization.controller;
 
-
 import com.example.spring_boot_rest_task1.authorization.service.AuthorizationService;
 import com.example.spring_boot_rest_task1.authorization.model.Authorities;
 import org.springframework.beans.factory.annotation.Autowired;
